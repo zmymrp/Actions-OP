@@ -191,7 +191,7 @@ cp -rf openwrt-passwall-packages/tcping package/tcping
 cp -rf openwrt-passwall-packages/trojan-plus package/trojan-plus
 cp -rf openwrt-passwall-packages/trojan package/trojan
 cp -rf openwrt-passwall-packages/tuic-client package/tuic-client
-cp -rf openwrt-passwall-packages/v2ray-core package/v2ray-core
+#cp -rf openwrt-passwall-packages/v2ray-core package/v2ray-core
 #cp -rf openwrt-passwall-packages/v2ray-geodata package/v2ray-geodata #与lean重复feeds/packages/net
 cp -rf openwrt-passwall-packages/v2ray-plugin package/v2ray-plugin
 cp -rf openwrt-passwall-packages/xray-core package/xray-core
